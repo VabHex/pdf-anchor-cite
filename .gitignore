@@ -1,0 +1,18 @@
+# Allow-list: only the files below are ever committed. Everything else
+# (your own PDFs, summaries, notes, the library folder) stays private.
+*
+!*/
+
+!.gitignore
+!README.md
+!index.html
+!viewer.html
+!check_citations.py
+!serve.py
+!Start viewer.bat
+!config.json
+!vendor/pdfjs-bundle.js
+!vendor/PDFJS-LICENSE.txt
+!example/Demo-Guideline.pdf
+!example/Demo-summary.md
+!library/PUT-PDFS-AND-SUMMARIES-HERE.txt

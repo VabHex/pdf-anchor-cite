@@ -1,0 +1,1 @@
+Put PDFs and summaries here (subfolders are fine), or point config.json at another folder.
